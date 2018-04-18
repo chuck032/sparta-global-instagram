@@ -10,4 +10,6 @@ During this project I was required to create a copy of the [Instagram] (https://
 * Forms
 * Footer
 
+Below you will find a screenshot of my instagram project:
+
 ![Screenshot of my Instagram](https://github.com/chuck032/sparta-global-instagram/blob/dev/instagram-starter-code/images/Screen%20Shot%202018-04-18%20at%2012.24.54.png) 
