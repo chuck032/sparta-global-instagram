@@ -2,9 +2,8 @@
 
 Instructions for use:
 
-To use this project git clone the repository to your computer
-
-Enter the project and open the html file. To view the code you can open the html file in a text editor.
+* To use this project git clone the repository to your computer
+* Enter the project and open the html file. To view the code you can open the html file in a text editor.
 
 During this project I was required to create a copy of the [Instagram] (https://www.instagram.com/?hl=en) page using html and CSS only. We were also required to have our instargram page respond to the changing size of the users browser.
 
